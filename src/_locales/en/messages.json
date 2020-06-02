@@ -119,6 +119,9 @@
   "CustomizePresets": {
     "message": "Preset customization (for all the sites sharing a preset)"
   },
+  "DarkMode": {
+    "message": "Dark Mode"
+  },
   "Default": {
     "message": "Default"
   },
